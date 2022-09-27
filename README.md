@@ -7,7 +7,7 @@ September 2022
 
 CONTENTS
 1. expdiscrete.jl --- Julia source to be opened with Pluto
-2. expdiscrete.jl.html --- The source above saved as html
+2. expdiscretePluto.pdf --- The result of the source code saved as PDF
 3. expdiscretePluto.mp4 --- A video showing how the slider works, and how the value of interest payments in a continuous interval gets close to the constant e = exp(1)
 
 TO RUN THE CODE
