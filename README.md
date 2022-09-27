@@ -1,6 +1,8 @@
 # julia-pluto-exp-interest
-Example with Julia and Pluto: exponential from discrete interest rate payments
+Example with Julia and Pluto: constant e from discrete interest rate payments
+
 Andre C. Silva
+
 September 2022
 
 CONTENTS
